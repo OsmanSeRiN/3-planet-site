@@ -1,0 +1,201 @@
+/*Dünya css bölümü*/
+.ana_başlık{
+    color:rgba(5, 5, 5, 0.782);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .arka-plan {
+    background-image: url(Dünya-arkaplan.jpg);
+    background-attachment: scroll;
+    color: rgb(2, 44, 81);
+    
+ }
+
+ .baslik{
+    color:rgb(58, 55, 55);
+    font-size: 25px;
+ }
+
+ .paragraf{
+    font-size: 15px;
+    text-align: left;
+ }
+ .list{
+    text-align: center;
+ }
+ .header_konum{
+   width: 1000px;
+   height: 600px;
+   padding: 10px;
+  
+   position: relative;
+   margin: auto;
+
+ }
+ .footer_konum{
+   width: 300px;
+   height: 300px;
+   padding: 20px;
+   position: relative;
+   margin: auto;
+
+ }
+ .section_konum{
+   width: 1000px;
+   height: 1500px;
+   padding: 10px; 
+   position: relative;
+   margin: auto;
+
+ }
+ .article_konum{
+   width: 1000px;
+   height: 300px;
+   position: relative;
+   margin: auto;
+
+
+ }
+ .div_renk-D{
+   background-color: rgb(208, 232, 238);
+
+   /*Mars Css bölümü*/
+ }
+ .mars_div_color{
+   background-color: rgba(225, 193, 181, 0.801);
+ }
+ .arka-plan-M{
+   background-image: url(Mars-Gökyüzü.jpg);
+   background-attachment: scroll;
+ }
+ .mars_header{
+   width: 1000px;
+   height: 800px;
+   padding: 20px;
+   position: relative;
+   margin: auto;
+   
+ }
+ .mars_paragraf{
+   font-size: 14px;
+   color:rgb(87, 37, 37);
+   text-align: left;
+ }
+ .mars_baslik{
+   font-size: 20px;
+   color: darkgray;
+   text-align: left;
+ }
+ .mars_article{
+   width: 1000px;
+   height: 650px;
+   padding: 10px;
+   position: relative;
+   margin: auto;
+
+ }
+ .mars_article_uzun{
+   width: 1000px;
+   height: 5000px;
+   padding: 10px;
+   position: relative;
+   margin: auto;
+ }
+ .mars_article_kısa{
+   width: 1000px;
+   height: 200px;
+   padding: 10px;
+   position: relative;
+   margin: auto;
+
+
+ }
+ .mars_footer{
+   width: 200px;
+   height: 200px;
+   padding: 50px;
+   position:relative;
+   margin: auto;
+   top:150px
+   
+ }
+ .mars_section{
+   width: 1000px;
+   height: 1600px;
+   padding: 20px;
+   position: static;
+   margin:auto;
+  
+ }
+ /*Jupiter css bölünü*/
+ .jupiter_body{
+   background-image: url(Jupiter-arkaplan.webp);
+ }
+ .jupiter_header{
+   width: 1000px;
+   height: 800px;
+   padding: 20px;
+   position: relative;
+   margin: auto;
+ }
+ .jupiter_div_color{
+   background-color: rgba(128, 79, 79, 0.886);
+ }
+ .jupiter_article{
+  width: 1000px;
+  height: 600px;
+  padding: 20px;
+  position: relative;
+  margin: auto;
+
+ }
+ .jupiter_footer{
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  position:relative;
+  margin: auto;
+  top:150px
+ }
+
+ .jupiter_paragraf{
+  font-size: 14px;
+  color:rgb(247, 246, 246);
+  text-align: left;
+ }
+ .menu_body{
+  background-image: url(uluslararası-uzay-istasyonu-görevi.jpg);
+  height: 1080px;
+  width: 1920px;
+ }
+ .menu_header{
+  height: 30px;
+  width: 1920;
+  padding: 50px;
+  position:relative;
+  margin: auto;
+ }
+ .menu_color{
+  background-color: rgba(116, 115, 115, 0.961);
+ }
+.menu_link{
+  color: rgb(224, 145, 145);
+  font-size: 20px;
+}
+.menu_section{
+  background-color: rgb(20, 20, 20);
+  height: 100;
+  width: 1800;
+  position:relative;
+  margin: auto;
+  top: 5px;
+}
+.menu_article{
+  height:100px;
+  width: 100px;
+  position:static;
+  margin: auto;
+}
+.menu_liste{
+  list-style-position: inside;
+}
